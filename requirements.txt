@@ -1,0 +1,6 @@
+pandas
+openpyxl
+gdown
+requests
+faker
+playwright
